@@ -11,6 +11,7 @@ por caractere, e mostrar na tela todos os caracteres, trocando todas as vogais p
 4) Grava Arquivo com Primeira Letra Maiúsculo. Nessa opção o sistema deverá criar um outro arquivo
 texto com o conteúdo do arquivo texto carregado anteriormente com a primeira letra de cada palavra
 em Maiúsculo. Dica: usar o código ASCII.
+
 5)[RESOLVIDO arquivo Gera-Arquivo-Figura.c] Gera Arquivo Figura: Nessa opção o sistema deve criar um arquivo texto com a seguinte figura:
 <img src="https://github.com/heitorgiacominibrasil/atividades-em-C/blob/main/ex5img.jpg" height="200px" width="200px">
 Obs.: A quantidade de Linhas deve ser solicitada para o usuário.
