@@ -8,6 +8,7 @@ cada vogal que aparece no arquivo texto carregado na opção anterior. Por exemp
 <img src="https://github.com/heitorgiacominibrasil/atividades-em-C/blob/main/ex2img.jpg" height="200px" width="900px">
 3) Converte para i. Nessa opção o sistema deve ler o arquivo texto anteriormente carregado, caractere
 por caractere, e mostrar na tela todos os caracteres, trocando todas as vogais pela vogal i.
+
 4) Grava Arquivo com Primeira Letra Maiúsculo. Nessa opção o sistema deverá criar um outro arquivo
 texto com o conteúdo do arquivo texto carregado anteriormente com a primeira letra de cada palavra
 em Maiúsculo. Dica: usar o código ASCII.
